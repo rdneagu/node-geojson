@@ -1,0 +1,19 @@
+{
+  "name": "geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "dependencies": {
+    "geojson2svg": "^1.2.3",
+    "lodash": "^4.17.15",
+    "proj4": "^2.6.0",
+    "reproject": "^1.2.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

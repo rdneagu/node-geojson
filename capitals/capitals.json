@@ -1,0 +1,912 @@
+{
+   "FJI": {
+      "name": "Fiji",
+      "capital": "Suva",
+      "coords": "-18.1416,178.4419"
+   },
+   "TZA": {
+      "name": "Tanzania",
+      "capital": "Dodoma",
+      "coords": "-6.173056,35.741944"
+   },
+   "SAH": {
+      "name": "Western Sahara",
+      "capital": "Laayoune",
+      "coords": "27.153611,-13.203333"
+   },
+   "CAN": {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "coords": "45.424722,-75.695"
+   },
+   "USA": {
+      "name": "United States",
+      "capital": "Washington D.C.",
+      "coords": "38.904722,-77.016389"
+   },
+   "KAZ": {
+      "name": "Kazakhstan",
+      "capital": "Nur-Sultan",
+      "coords": "51.166667,71.433333"
+   },
+   "UZB": {
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "coords": "41.3,69.266667"
+   },
+   "PNX": {
+      "name": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "coords": "-9.478889,147.149444"
+   },
+   "IDN": {
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "coords": "-6.2,106.816667"
+   },
+   "ARG": {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "coords": "-34.603333,-58.381667"
+   },
+   "CHL": {
+      "name": "Chile",
+      "capital": "Santiago",
+      "coords": "-33.45,-70.666667"
+   },
+   "COD": {
+      "name": "Democratic Republic of the Congo",
+      "capital": "Kinshasa",
+      "coords": "-4.325,15.322222"
+   },
+   "SOM": {
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "coords": "2.033333,45.333333"
+   },
+   "KEN": {
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "coords": "-1.286389,36.817222"
+   },
+   "SDN": {
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "coords": "15.500556,32.56"
+   },
+   "TCD": {
+      "name": "Chad",
+      "capital": "N'Djamena",
+      "coords": "12.113056,15.049167"
+   },
+   "HTI": {
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "coords": "18.533333,-72.333333"
+   },
+   "DOM": {
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "coords": "18.466667,-69.95"
+   },
+   "RUS": {
+      "name": "Russian Federation",
+      "capital": "Moscow",
+      "coords": "55.755833,37.617222"
+   },
+   "BHS": {
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "coords": "25.06,-77.345"
+   },
+   "FLK": {
+      "name": "Falkland Islands",
+      "capital": "Stanley",
+      "coords": "-51.694444,-57.852778"
+   },
+   "NSV": {
+      "name": "Svalbard Islands",
+      "capital": "Longyearbyen",
+      "coords": "78.22,15.65"
+   },
+   "GRL": {
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "coords": "64.181389,-51.694167"
+   },
+   "ATF": {
+      "name": "French Southern and Antarctic Lands",
+      "capital": "Saint Pierre",
+      "coords": "-21.3419,55.4778"
+   },
+   "TLS": {
+      "name": "Timor-Leste",
+      "capital": "Dili",
+      "coords": "-8.566667,125.566667"
+   },
+   "ZAF": {
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "coords": "-25.746111,28.188056"
+   },
+   "LSO": {
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "coords": "-29.31,27.48"
+   },
+   "MEX": {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "coords": "19.433333,-99.133333"
+   },
+   "URY": {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "coords": "-34.883611,-56.181944"
+   },
+   "BRA": {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "coords": "-15.793889,-47.882778"
+   },
+   "BOL": {
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "coords": "-19.05,-65.25"
+   },
+   "PER": {
+      "name": "Peru",
+      "capital": "Lima",
+      "coords": "-12.05,-77.033333"
+   },
+   "COL": {
+      "name": "Colombia",
+      "capital": "Bogota",
+      "coords": "4.711111,-74.072222"
+   },
+   "PAN": {
+      "name": "Panama",
+      "capital": "Panama City",
+      "coords": "8.983333,-79.516667"
+   },
+   "CRI": {
+      "name": "Costa Rica",
+      "capital": "San José",
+      "coords": "9.933333,-84.083333"
+   },
+   "NIC": {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "coords": "12.136389,-86.251389"
+   },
+   "HND": {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "coords": "14.1,-87.216667"
+   },
+   "SLV": {
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "coords": "13.698889,-89.191389"
+   },
+   "GTM": {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "coords": "14.613333,-90.535278"
+   },
+   "BLZ": {
+      "name": "Belize",
+      "capital": "Belmopan",
+      "coords": "17.251389,-88.766944"
+   },
+   "VEN": {
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "coords": "10.480556,-66.903611"
+   },
+   "GUY": {
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "coords": "6.801111,-58.155278"
+   },
+   "SUR": {
+      "name": "Suriname",
+      "capital": "Paramaribo",
+      "coords": "5.852222,-55.203889"
+   },
+   "GUF": {
+      "name": "French Guiana",
+      "capital": "Cayenne",
+      "coords": "4.9372,-52.326"
+   },
+   "ECU": {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "coords": "-0.233333,-78.516667"
+   },
+   "PRI": {
+      "name": "Puerto Rico",
+      "capital": "San Juan",
+      "coords": "18.406389,-66.063889"
+   },
+   "JAM": {
+      "name": "Jamaica",
+      "capital": "Kingston",
+      "coords": "17.971389,-76.793056"
+   },
+   "CUB": {
+      "name": "Cuba",
+      "capital": "Havana",
+      "coords": "23.136667,-82.358889"
+   },
+   "ZWE": {
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "coords": "-17.829167,31.052222"
+   },
+   "BWA": {
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "coords": "-24.658056,25.912222"
+   },
+   "NAM": {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "coords": "-22.57,17.083611"
+   },
+   "SEN": {
+      "name": "Senegal",
+      "capital": "Dakar",
+      "coords": "14.692778,-17.446667"
+   },
+   "MLI": {
+      "name": "Mali",
+      "capital": "Bamako",
+      "coords": "12.639167,-8.002778"
+   },
+   "MRT": {
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "coords": "18.1,-15.95"
+   },
+   "BEN": {
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "coords": "6.497222,2.605"
+   },
+   "NER": {
+      "name": "Niger",
+      "capital": "Niamey",
+      "coords": "13.511667,2.125278"
+   },
+   "NGA": {
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "coords": "9.066667,7.483333"
+   },
+   "CMR": {
+      "name": "Cameroon",
+      "capital": "Yaoundé",
+      "coords": "3.866667,11.516667"
+   },
+   "TGO": {
+      "name": "Togo",
+      "capital": "Lomé",
+      "coords": "6.131944,1.222778"
+   },
+   "GHA": {
+      "name": "Ghana",
+      "capital": "Accra",
+      "coords": "5.55,-0.2"
+   },
+   "CIV": {
+      "name": "Côte d'Ivoire",
+      "capital": "Yamoussoukro",
+      "coords": "6.816667,-5.283333"
+   },
+   "GIN": {
+      "name": "Guinea",
+      "capital": "Conakry",
+      "coords": "9.509167,-13.712222"
+   },
+   "GNB": {
+      "name": "Guinea-Bissau",
+      "capital": "Bissau",
+      "coords": "11.85,-15.566667"
+   },
+   "LBR": {
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "coords": "6.313333,-10.801389"
+   },
+   "SLE": {
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "coords": "8.484444,-13.234444"
+   },
+   "BFA": {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "coords": "12.357222,-1.535278"
+   },
+   "CAF": {
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "coords": "4.373333,18.562778"
+   },
+   "COG": {
+      "name": "Republic of the Congo",
+      "capital": "Brazzaville",
+      "coords": "-4.267778,15.291944"
+   },
+   "GAB": {
+      "name": "Gabon",
+      "capital": "Libreville",
+      "coords": "0.3901,9.4544"
+   },
+   "GNQ": {
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "coords": "3.75,8.783333"
+   },
+   "ZMB": {
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "coords": "-15.416667,28.283333"
+   },
+   "MWI": {
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "coords": "-13.983333,33.783333"
+   },
+   "MOZ": {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "coords": "-25.966667,32.583333"
+   },
+   "SWZ": {
+      "name": "eSwatini",
+      "capital": "Lobamba",
+      "coords": "-26.416667,31.166667"
+   },
+   "AGO": {
+      "name": "Angola",
+      "capital": "Luanda",
+      "coords": "-8.838333,13.234444"
+   },
+   "BDI": {
+      "name": "Burundi",
+      "capital": "Gitega",
+      "coords": "-3.433333,29.9"
+   },
+   "ISR": {
+      "name": "Israel",
+      "capital": "Jerusalem",
+      "coords": "31.783333,35.216667"
+   },
+   "LBN": {
+      "name": "Lebanon",
+      "capital": "Beirut",
+      "coords": "33.886944,35.513056"
+   },
+   "MDG": {
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "coords": "-18.933333,47.516667"
+   },
+   "WEB": {
+      "name": "West Bank",
+      "capital": "Jenin",
+      "coords": "32.461111,35.3"
+   },
+   "GMB": {
+      "name": "The Gambia",
+      "capital": "Banjul",
+      "coords": "13.453056,-16.5775"
+   },
+   "TUN": {
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "coords": "36.806389,10.181667"
+   },
+   "DZA": {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "coords": "36.753889,3.058889"
+   },
+   "JOR": {
+      "name": "Jordan",
+      "capital": "Amman",
+      "coords": "31.949722,35.932778"
+   },
+   "ARE": {
+      "name": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "coords": "24.466667,54.366667"
+   },
+   "QAT": {
+      "name": "Qatar",
+      "capital": "Doha",
+      "coords": "25.286667,51.533333"
+   },
+   "KWT": {
+      "name": "Kuwait",
+      "capital": "Kuwait City",
+      "coords": "29.369722,47.978333"
+   },
+   "IRQ": {
+      "name": "Iraq",
+      "capital": "Baghdad",
+      "coords": "33.333333,44.383333"
+   },
+   "OMN": {
+      "name": "Oman",
+      "capital": "Muscat",
+      "coords": "23.588889,58.408333"
+   },
+   "VUT": {
+      "name": "Vanuatu",
+      "capital": "Port Vila",
+      "coords": "-17.733333,168.316667"
+   },
+   "KHM": {
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "coords": "11.569444,104.921111"
+   },
+   "THA": {
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "coords": "13.7525,100.494167"
+   },
+   "LAO": {
+      "name": "Lao PDR",
+      "capital": "Vientiane",
+      "coords": "17.966667,102.6"
+   },
+   "MMR": {
+      "name": "Myanmar",
+      "capital": "Naypyitaw",
+      "coords": "19.75,96.1"
+   },
+   "VNM": {
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "coords": "21.028333,105.854167"
+   },
+   "PRK": {
+      "name": "Dem. Rep. Korea",
+      "capital": "Pyongyang",
+      "coords": "39.019444,125.738056"
+   },
+   "KOR": {
+      "name": "Republic of Korea",
+      "capital": "Seoul",
+      "coords": "37.566667,126.966667"
+   },
+   "MNG": {
+      "name": "Mongolia",
+      "capital": "Ulaanbaatar",
+      "coords": "47.920278,106.917222"
+   },
+   "IND": {
+      "name": "India",
+      "capital": "New Delhi",
+      "coords": "28.636667,77.224722"
+   },
+   "BGD": {
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "coords": "23.763889,90.388889"
+   },
+   "BTN": {
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "coords": "27.472222,89.636111"
+   },
+   "NPL": {
+      "name": "Nepal",
+      "capital": "Kathmandu",
+      "coords": "27.7172,85.324"
+   },
+   "PAK": {
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "coords": "33.693056,73.063889"
+   },
+   "AFG": {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "coords": "34.525278,69.178333"
+   },
+   "TJK": {
+      "name": "Tajikistan",
+      "capital": "Dushanbe",
+      "coords": "38.536667,68.78"
+   },
+   "KGZ": {
+      "name": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "coords": "42.874722,74.612222"
+   },
+   "TKM": {
+      "name": "Turkmenistan",
+      "capital": "Ashgabat",
+      "coords": "37.933333,58.366667"
+   },
+   "IRN": {
+      "name": "Iran",
+      "capital": "Tehran",
+      "coords": "35.689167,51.388889"
+   },
+   "SYR": {
+      "name": "Syria",
+      "capital": "Damascus",
+      "coords": "33.513056,36.291944"
+   },
+   "ARM": {
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "coords": "40.181389,44.514444"
+   },
+   "NOR": {
+      "name": "Norway",
+      "capital": "Oslo",
+      "coords": "59.913889,10.752222"
+   },
+   "SWE": {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "coords": "59.329444,18.068611"
+   },
+   "BLR": {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "coords": "53.9,27.566667"
+   },
+   "UKR": {
+      "name": "Ukraine",
+      "capital": "Kiev",
+      "coords": "50.45,30.523333"
+   },
+   "POL": {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "coords": "52.233333,21.016667"
+   },
+   "AUT": {
+      "name": "Austria",
+      "capital": "Vienna",
+      "coords": "48.2,16.366667"
+   },
+   "HUN": {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "coords": "47.4925,19.051389"
+   },
+   "MDA": {
+      "name": "Moldova",
+      "capital": "Chișinău",
+      "coords": "47.022887,28.835335"
+   },
+   "ROU": {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "coords": "44.4325,26.103889"
+   },
+   "LTU": {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "coords": "54.683333,25.283333"
+   },
+   "LVA": {
+      "name": "Latvia",
+      "capital": "Riga",
+      "coords": "56.948889,24.106389"
+   },
+   "EST": {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "coords": "59.437222,24.745278"
+   },
+   "DEU": {
+      "name": "Germany",
+      "capital": "Berlin",
+      "coords": "52.52,13.405"
+   },
+   "BGR": {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "coords": "42.7,23.33"
+   },
+   "GRC": {
+      "name": "Greece",
+      "capital": "Athens",
+      "coords": "37.983972,23.727806"
+   },
+   "TUR": {
+      "name": "Turkey",
+      "capital": "Ankara",
+      "coords": "39.933333,32.866667"
+   },
+   "ALB": {
+      "name": "Albania",
+      "capital": "Tirana",
+      "coords": "41.328889,19.817778"
+   },
+   "HRV": {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "coords": "45.816667,15.983333"
+   },
+   "CHE": {
+      "name": "Switzerland",
+      "capital": "Bern",
+      "coords": "46.948056,7.4475"
+   },
+   "LUX": {
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "coords": "49.611667,6.131944"
+   },
+   "BEL": {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "coords": "50.85,4.35"
+   },
+   "NLD": {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "coords": "52.366667,4.9"
+   },
+   "PRT": {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "coords": "38.725267,-9.150019"
+   },
+   "ESP": {
+      "name": "Spain",
+      "capital": "Madrid",
+      "coords": "40.383333,-3.716667"
+   },
+   "IRL": {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "coords": "53.35,-6.266667"
+   },
+   "NCL": {
+      "name": "New Caledonia",
+      "capital": "Nouméa",
+      "coords": "-22.2758,166.458"
+   },
+   "SLB": {
+      "name": "Solomon Islands",
+      "capital": "Honiara",
+      "coords": "-9.431944,159.955556"
+   },
+   "PNB": {
+      "name": "Bougainville",
+      "capital": "Buka",
+      "coords": "-5.421944,154.672778"
+   },
+   "NZL": {
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "coords": "-41.288889,174.777222"
+   },
+   "AUS": {
+      "name": "Australia",
+      "capital": "Canberra",
+      "coords": "-35.293056,149.126944"
+   },
+   "LKA": {
+      "name": "Sri Lanka",
+      "capital": "Sri Jayawardenepura Kotte",
+      "coords": "6.910833,79.887836"
+   },
+   "CHN": {
+      "name": "China",
+      "capital": "Beijing",
+      "coords": "39.916667,116.383333"
+   },
+   "TWN": {
+      "name": "Taiwan",
+      "capital": "Taipei",
+      "coords": "25.066667,121.516667"
+   },
+   "ITA": {
+      "name": "Italy",
+      "capital": "Rome",
+      "coords": "41.883333,12.5"
+   },
+   "FXX": {
+      "name": "France",
+      "capital": "Paris",
+      "coords": "48.856613,2.352222"
+   },
+   "DNK": {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "coords": "55.676111,12.568333"
+   },
+   "NIR": {
+      "name": "Northern Ireland",
+      "capital": "Belfast",
+      "coords": "54.596389,-5.93"
+   },
+   "ENG": {
+      "name": "England",
+      "capital": "London",
+      "coords": "51.507222,-0.1275"
+   },
+   "ISL": {
+      "name": "Iceland",
+      "capital": "Reykjavík",
+      "coords": "64.133333,-21.933333"
+   },
+   "AZE": {
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "coords": "40.395278,49.882222"
+   },
+   "GEO": {
+      "name": "Georgia",
+      "capital": "Tbilisi",
+      "coords": "41.716667,44.783333"
+   },
+   "PHL": {
+      "name": "Philippines",
+      "capital": "Manila",
+      "coords": "14.5958,120.9772"
+   },
+   "MYS": {
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "coords": "3.147778,101.695278"
+   },
+   "BRN": {
+      "name": "Brunei Darussalam",
+      "capital": "Bandar Seri Begawan",
+      "coords": "4.890278,114.942222"
+   },
+   "SVN": {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "coords": "46.055556,14.508333"
+   },
+   "FIN": {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "coords": "60.170833,24.9375"
+   },
+   "SVK": {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "coords": "48.143889,17.109722 "
+   },
+   "CZE": {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "coords": "50.083333,14.416667"
+   },
+   "ERI": {
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "coords": "15.322778,38.925"
+   },
+   "JPN": {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "coords": "35.689722,139.692222"
+   },
+   "PRY": {
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "coords": "-25.3,-57.633333"
+   },
+   "YEM": {
+      "name": "Yemen",
+      "capital": "Sanaa",
+      "coords": "15.348333,44.206389"
+   },
+   "SAU": {
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "coords": "24.633333,46.716667"
+   },
+   "CYN": {
+      "name": "Northern Cyprus",
+      "capital": "North Nicosia",
+      "coords": "35.177011,33.36324"
+   },
+   "CYP": {
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "coords": "35.1725,33.365"
+   },
+   "MAR": {
+      "name": "Morocco",
+      "capital": "Rabat",
+      "coords": "34.020882,-6.84165"
+   },
+   "EGY": {
+      "name": "Egypt",
+      "capital": "Cairo",
+      "coords": "30.033333,31.233333"
+   },
+   "LBY": {
+      "name": "Libya",
+      "capital": "Tripoli",
+      "coords": "32.887222,13.191389"
+   },
+   "ETH": {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "coords": "9.03,38.74\t"
+   },
+   "DJI": {
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "coords": "11.588333,43.145"
+   },
+   "SOL": {
+      "name": "Somaliland",
+      "capital": "Hargeisa",
+      "coords": "9.563056,44.0675"
+   },
+   "UGA": {
+      "name": "Uganda",
+      "capital": "Kampala",
+      "coords": "0.313611,32.581111"
+   },
+   "RWA": {
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "coords": "-1.943889,30.059444"
+   },
+   "BIH": {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "coords": "43.866667,18.416667"
+   },
+   "MKD": {
+      "name": "Macedonia",
+      "capital": "Skopje",
+      "coords": "42,21.433333"
+   },
+   "SRS": {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "coords": "44.816667,20.466667"
+   },
+   "MNE": {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "coords": "42.441286,19.262892"
+   },
+   "KOS": {
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "coords": "42.666667,21.166667"
+   },
+   "TTO": {
+      "name": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "coords": "10.666667,-61.516667"
+   },
+   "WLS": {
+      "name": "Wales",
+      "capital": "Cardiff",
+      "coords": "51.483333,-3.183333"
+   },
+   "SCT": {
+      "name": "Scotland",
+      "capital": "Edinburgh",
+      "coords": "55.953,-3.189"
+   },
+   "SDS": {
+      "name": "South Sudan",
+      "capital": "Juba",
+      "coords": "4.85,31.6"
+   }
+}

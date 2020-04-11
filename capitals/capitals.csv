@@ -1,0 +1,183 @@
+id;name;capital;coords
+FJI;Fiji;Suva;-18.1416,178.4419
+TZA;Tanzania;Dodoma;-6.173056,35.741944
+SAH;Western Sahara;Laayoune;27.153611,-13.203333
+CAN;Canada;Ottawa;45.424722,-75.695
+USA;United States;Washington D.C.;38.904722,-77.016389
+KAZ;Kazakhstan;Nur-Sultan;51.166667,71.433333
+UZB;Uzbekistan;Tashkent;41.3,69.266667
+PNX;Papua New Guinea;Port Moresby;-9.478889,147.149444
+IDN;Indonesia;Jakarta;-6.2,106.816667
+ARG;Argentina;Buenos Aires;-34.603333,-58.381667
+CHL;Chile;Santiago;-33.45,-70.666667
+COD;Democratic Republic of the Congo;Kinshasa;-4.325,15.322222
+SOM;Somalia;Mogadishu;2.033333,45.333333
+KEN;Kenya;Nairobi;-1.286389,36.817222
+SDN;Sudan;Khartoum;15.500556,32.56
+TCD;Chad;N'Djamena;12.113056,15.049167
+HTI;Haiti;Port-au-Prince;18.533333,-72.333333
+DOM;Dominican Republic;Santo Domingo;18.466667,-69.95
+RUS;Russian Federation;Moscow;55.755833,37.617222
+BHS;Bahamas;Nassau;25.06,-77.345
+FLK;Falkland Islands;Stanley;-51.694444,-57.852778
+NSV;Svalbard Islands;Longyearbyen;78.22,15.65
+GRL;Greenland;Nuuk;64.181389,-51.694167
+ATF;French Southern and Antarctic Lands;Saint Pierre;-21.3419,55.4778
+TLS;Timor-Leste;Dili;-8.566667,125.566667
+ZAF;South Africa;Pretoria;-25.746111,28.188056
+LSO;Lesotho;Maseru;-29.31,27.48
+MEX;Mexico;Mexico City;19.433333,-99.133333
+URY;Uruguay;Montevideo;-34.883611,-56.181944
+BRA;Brazil;Brasília;-15.793889,-47.882778
+BOL;Bolivia;Sucre;-19.05,-65.25
+PER;Peru;Lima;-12.05,-77.033333
+COL;Colombia;Bogota;4.711111,-74.072222
+PAN;Panama;Panama City;8.983333,-79.516667
+CRI;Costa Rica;San José;9.933333,-84.083333
+NIC;Nicaragua;Managua;12.136389,-86.251389
+HND;Honduras;Tegucigalpa;14.1,-87.216667
+SLV;El Salvador;San Salvador;13.698889,-89.191389
+GTM;Guatemala;Guatemala City;14.613333,-90.535278
+BLZ;Belize;Belmopan;17.251389,-88.766944
+VEN;Venezuela;Caracas;10.480556,-66.903611
+GUY;Guyana;Georgetown;6.801111,-58.155278
+SUR;Suriname;Paramaribo;5.852222,-55.203889
+GUF;French Guiana;Cayenne;4.9372,-52.326
+ECU;Ecuador;Quito;-0.233333,-78.516667
+PRI;Puerto Rico;San Juan;18.406389,-66.063889
+JAM;Jamaica;Kingston;17.971389,-76.793056
+CUB;Cuba;Havana;23.136667,-82.358889
+ZWE;Zimbabwe;Harare;-17.829167,31.052222
+BWA;Botswana;Gaborone;-24.658056,25.912222
+NAM;Namibia;Windhoek;-22.57,17.083611
+SEN;Senegal;Dakar;14.692778,-17.446667
+MLI;Mali;Bamako;12.639167,-8.002778
+MRT;Mauritania;Nouakchott;18.1,-15.95
+BEN;Benin;Porto-Novo;6.497222,2.605
+NER;Niger;Niamey;13.511667,2.125278
+NGA;Nigeria;Abuja;9.066667,7.483333
+CMR;Cameroon;Yaoundé;3.866667,11.516667
+TGO;Togo;Lomé;6.131944,1.222778
+GHA;Ghana;Accra;5.55,-0.2
+CIV;Côte d'Ivoire;Yamoussoukro;6.816667,-5.283333
+GIN;Guinea;Conakry;9.509167,-13.712222
+GNB;Guinea-Bissau;Bissau;11.85,-15.566667
+LBR;Liberia;Monrovia;6.313333,-10.801389
+SLE;Sierra Leone;Freetown;8.484444,-13.234444
+BFA;Burkina Faso;Ouagadougou;12.357222,-1.535278
+CAF;Central African Republic;Bangui;4.373333,18.562778
+COG;Republic of the Congo;Brazzaville;-4.267778,15.291944
+GAB;Gabon;Libreville;0.3901,9.4544
+GNQ;Equatorial Guinea;Malabo;3.75,8.783333
+ZMB;Zambia;Lusaka;-15.416667,28.283333
+MWI;Malawi;Lilongwe;-13.983333,33.783333
+MOZ;Mozambique;Maputo;-25.966667,32.583333
+SWZ;eSwatini;Lobamba;-26.416667,31.166667
+AGO;Angola;Luanda;-8.838333,13.234444
+BDI;Burundi;Gitega;-3.433333,29.9
+ISR;Israel;Jerusalem;31.783333,35.216667
+LBN;Lebanon;Beirut;33.886944,35.513056
+MDG;Madagascar;Antananarivo;-18.933333,47.516667
+WEB;West Bank;Jenin;32.461111,35.3
+GMB;The Gambia;Banjul;13.453056,-16.5775
+TUN;Tunisia;Tunis;36.806389,10.181667
+DZA;Algeria;Algiers;36.753889,3.058889
+JOR;Jordan;Amman;31.949722,35.932778
+ARE;United Arab Emirates;Abu Dhabi;24.466667,54.366667
+QAT;Qatar;Doha;25.286667,51.533333
+KWT;Kuwait;Kuwait City;29.369722,47.978333
+IRQ;Iraq;Baghdad;33.333333,44.383333
+OMN;Oman;Muscat;23.588889,58.408333
+VUT;Vanuatu;Port Vila;-17.733333,168.316667
+KHM;Cambodia;Phnom Penh;11.569444,104.921111
+THA;Thailand;Bangkok;13.7525,100.494167
+LAO;Lao PDR;Vientiane;17.966667,102.6
+MMR;Myanmar;Naypyitaw;19.75,96.1
+VNM;Vietnam;Hanoi;21.028333,105.854167
+PRK;Dem. Rep. Korea;Pyongyang;39.019444,125.738056
+KOR;Republic of Korea;Seoul;37.566667,126.966667
+MNG;Mongolia;Ulaanbaatar;47.920278,106.917222
+IND;India;New Delhi;28.636667,77.224722
+BGD;Bangladesh;Dhaka;23.763889,90.388889
+BTN;Bhutan;Thimphu;27.472222,89.636111
+NPL;Nepal;Kathmandu;27.7172,85.324
+PAK;Pakistan;Islamabad;33.693056,73.063889
+AFG;Afghanistan;Kabul;34.525278,69.178333
+TJK;Tajikistan;Dushanbe;38.536667,68.78
+KGZ;Kyrgyzstan;Bishkek;42.874722,74.612222
+TKM;Turkmenistan;Ashgabat;37.933333,58.366667
+IRN;Iran;Tehran;35.689167,51.388889
+SYR;Syria;Damascus;33.513056,36.291944
+ARM;Armenia;Yerevan;40.181389,44.514444
+NOR;Norway;Oslo;59.913889,10.752222
+SWE;Sweden;Stockholm;59.329444,18.068611
+BLR;Belarus;Minsk;53.9,27.566667
+UKR;Ukraine;Kiev;50.45,30.523333
+POL;Poland;Warsaw;52.233333,21.016667
+AUT;Austria;Vienna;48.2,16.366667
+HUN;Hungary;Budapest;47.4925,19.051389
+MDA;Moldova;Chișinău;47.022887,28.835335
+ROU;Romania;Bucharest;44.4325,26.103889
+LTU;Lithuania;Vilnius;54.683333,25.283333
+LVA;Latvia;Riga;56.948889,24.106389
+EST;Estonia;Tallinn;59.437222,24.745278
+DEU;Germany;Berlin;52.52,13.405
+BGR;Bulgaria;Sofia;42.7,23.33
+GRC;Greece;Athens;37.983972,23.727806
+TUR;Turkey;Ankara;39.933333,32.866667
+ALB;Albania;Tirana;41.328889,19.817778
+HRV;Croatia;Zagreb;45.816667,15.983333
+CHE;Switzerland;Bern;46.948056,7.4475
+LUX;Luxembourg;Luxembourg;49.611667,6.131944
+BEL;Belgium;Brussels;50.85,4.35
+NLD;Netherlands;Amsterdam;52.366667,4.9
+PRT;Portugal;Lisbon;38.725267,-9.150019
+ESP;Spain;Madrid;40.383333,-3.716667
+IRL;Ireland;Dublin;53.35,-6.266667
+NCL;New Caledonia;Nouméa;-22.2758,166.458
+SLB;Solomon Islands;Honiara;-9.431944,159.955556
+PNB;Bougainville;Buka;-5.421944,154.672778
+NZL;New Zealand;Wellington;-41.288889,174.777222
+AUS;Australia;Canberra;-35.293056,149.126944
+LKA;Sri Lanka;Sri Jayawardenepura Kotte;6.910833,79.887836
+CHN;China;Beijing;39.916667,116.383333
+TWN;Taiwan;Taipei;25.066667,121.516667
+ITA;Italy;Rome;41.883333,12.5
+FXX;France;Paris;48.856613,2.352222
+DNK;Denmark;Copenhagen;55.676111,12.568333
+NIR;Northern Ireland;Belfast;54.596389,-5.93
+ENG;England;London;51.507222,-0.1275
+ISL;Iceland;Reykjavík;64.133333,-21.933333
+AZE;Azerbaijan;Baku;40.395278,49.882222
+GEO;Georgia;Tbilisi;41.716667,44.783333
+PHL;Philippines;Manila;14.5958,120.9772
+MYS;Malaysia;Kuala Lumpur;3.147778,101.695278
+BRN;Brunei Darussalam;Bandar Seri Begawan;4.890278,114.942222
+SVN;Slovenia;Ljubljana;46.055556,14.508333
+FIN;Finland;Helsinki;60.170833,24.9375
+SVK;Slovakia;Bratislava;48.143889,17.109722 
+CZE;Czech Republic;Prague;50.083333,14.416667
+ERI;Eritrea;Asmara;15.322778,38.925
+JPN;Japan;Tokyo;35.689722,139.692222
+PRY;Paraguay;Asunción;-25.3,-57.633333
+YEM;Yemen;Sanaa;15.348333,44.206389
+SAU;Saudi Arabia;Riyadh;24.633333,46.716667
+CYN;Northern Cyprus;North Nicosia;35.177011,33.36324
+CYP;Cyprus;Nicosia;35.1725,33.365
+MAR;Morocco;Rabat;34.020882,-6.84165
+EGY;Egypt;Cairo;30.033333,31.233333
+LBY;Libya;Tripoli;32.887222,13.191389
+ETH;Ethiopia;Addis Ababa;9.03,38.74	
+DJI;Djibouti;Djibouti;11.588333,43.145
+SOL;Somaliland;Hargeisa;9.563056,44.0675
+UGA;Uganda;Kampala;0.313611,32.581111
+RWA;Rwanda;Kigali;-1.943889,30.059444
+BIH;Bosnia and Herzegovina;Sarajevo;43.866667,18.416667
+MKD;Macedonia;Skopje;42,21.433333
+SRS;Serbia;Belgrade;44.816667,20.466667
+MNE;Montenegro;Podgorica;42.441286,19.262892
+KOS;Kosovo;Pristina;42.666667,21.166667
+TTO;Trinidad and Tobago;Port of Spain;10.666667,-61.516667
+WLS;Wales;Cardiff;51.483333,-3.183333
+SCT;Scotland;Edinburgh;55.953,-3.189
+SDS;South Sudan;Juba;4.85,31.6
