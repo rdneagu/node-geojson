@@ -25,9 +25,9 @@ function parseCountries() {
   const capitals = fromJson(capitalsJson);
   const features = geojson.features
     .filter((c) => c.properties.GU_A3 !== 'ATA')
-    .forEach((c) => {
-      console.log(`{ "gu_a3": "${c.properties.GU_A3}", "sub": "${c.properties.SUBUNIT}", "iso": "${c.properties.ISO_A2}" },`);
-    })
+    // .forEach((c) => {
+    //   console.log(`{ "gu_a3": "${c.properties.GU_A3}", "sub": "${c.properties.SUBUNIT}", "iso": "${c.properties.ISO_A2}" },`);
+    // })
     .map((c) => {
       return {
         type: c.type,
@@ -57,8 +57,15 @@ function parseCountries() {
 function parseCities(countryList) {
   const geojson = fromJson(citiesGeoJson);
   _.forEach(countryList.features, (country) => {
-    const cities = geojson.features.filter((c) => c.properties.gu_a3 === country.properties.id);
+    _.forEach(geojson.features, (c) => {
+      if (c.properties.geonunit === country.properties.name && c.properties.gu_a3 !== country.properties.id) {
+        console.log(`name: ${country.properties.name} | gu_a3: ${c.properties.gu_a3} | adm0_a3: ${c.properties.adm0_a3} | cid: ${country.properties.id}`);
+      }
+    });
+    const match = (c) => (c.properties.gu_a3 === country.properties.id || c.properties.adm0_a3 === country.properties.id);
+    const cities = geojson.features.filter(match);
     if (cities.length) {
+      console.log(`name: ${country.properties.name} | cid: ${country.properties.id}`);
       const features = cities.map((c) => ({
         type: c.type,
         geometry: c.geometry,
